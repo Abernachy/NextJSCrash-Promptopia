@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\api",
+    "\\app\\api\\auth",
+    "\\app\\api\\auth\\[...nextauth]",
+    "\\app\\create-prompt",
+    "\\components",
+    "\\models",
+    "\\utils"
+  ],
+  "SelectedNode": "\\components\\Feed.jsx",
+  "PreviewInSolutionExplorer": false
+}
